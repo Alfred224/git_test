@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+h1, h2 {
+    color: orange;
+    background-color: blue;
+    height: auto;
+    width: 300px;
+    padding: auto;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+div {
+    color: rgb(225, 0, 0);
+}
+.alert-text,
+.title {
+    color: rgb(225, 225, 0);
+}
+.main-section .subsection.header{
+    color: rgb(0, 225, 0);
+}

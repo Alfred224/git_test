@@ -1,0 +1,19 @@
+.odd-nums {
+    background-color: pink;
+    font: verdana, san-serif;
+}
+
+#even-num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd-nums.num3 {
+    font-size: 24px;
+}
+
+#even-num4 {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
