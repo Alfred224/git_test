@@ -7,7 +7,6 @@ const sumAll = function(a, b) {
     } else answer = "ERROR";
     return answer;
 }
-console.log(sumAll(1, "90"));
 
 // Do not edit below this line
 module.exports = sumAll;
